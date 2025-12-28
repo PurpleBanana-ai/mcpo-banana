@@ -1,3 +1,10 @@
+<h1 align="center">
+WARNING - COPY OF REPO NOT ORIGINAL 
+</h1>
+<p></p>
+<p></p>
+
+
 # ⚡️ mcpo
 
 Expose any MCP tool as an OpenAPI-compatible HTTP server—instantly.
